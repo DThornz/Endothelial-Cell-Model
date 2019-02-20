@@ -9,10 +9,19 @@ HOW TO INSTALL:
 
 1. Install via mlapp file
 
-    a. Download EndoCellAppInstall.mlappinstall
+	a. Download EndoCellAppInstall.mlappinstall
 	
-    b. Open using MATLAB 2016a or greater
+	b. Open using MATLAB 2016a or greater
 	
-    c. App should install easily and be accesible in the apps panel along the main MATLAB bar.
+	c. App should install easily and be accesible in the apps panel along the main MATLAB bar.
 	
-2. Install via external executable (work in progress)
+2. Install via external executable 
+
+	a. Download EndoCellInstaller.exe
+	
+	b. Right click and select "Run as Administrator"
+	
+	c. You will be prompted to install the application, accept.
+		ci. If you do not have MATLAB Runtime Component installed it will be downloaded for you (~700 MBs)
+		
+	d. The Endothelial Cell app icon should appear on your desktop and can be run from there easily.
