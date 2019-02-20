@@ -8,7 +8,11 @@ To assist in disseminating our model to as many people working in our field as p
 HOW TO INSTALL:
 
 1. Install via mlapp file
+
     a. Download EndoCellAppInstall.mlappinstall
+	
     b. Open using MATLAB 2016a or greater
+	
     c. App should install easily and be accesible in the apps panel along the main MATLAB bar.
+	
 2. Install via external executable (work in progress)
