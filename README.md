@@ -1,4 +1,4 @@
-# Endothelial-Cell-Model
+# Endothelial Cell Model
 
 
 Vascular endothelial cells (ECs) modulate smooth muscle cells (SMC) contractility, assisting in vascular tone and regulation. Our lab as created a detailed model for this cell that integrates plasma membrane electrophysiology and calcium dynamics to investigate EC responses to various stimuli. It also expands on previous formulations by including more detailed transmembrane current descriptions.
