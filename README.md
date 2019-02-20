@@ -17,7 +17,7 @@ HOW TO INSTALL:
 
 1. Install via mlapp file
 
-	a. Download EndoCellAppInstall.mlappinstall
+	a. Download EndoCellModel.mlappinstall
 	
 	b. Open using MATLAB 2016a or greater
 	
