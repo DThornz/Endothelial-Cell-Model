@@ -13,6 +13,14 @@ A mathematical model of plasma membrane electrophysiology and calcium dynamics i
 Haroldo S. Silva, Adam Kapela, and Nikolaos M. Tsoukias 
 American Journal of Physiology-Cell Physiology 2007 293:1, C277-C293
 
+![mainpage](https://user-images.githubusercontent.com/19198037/53139361-69810200-3557-11e9-9022-93968c656af4.PNG)
+![parameters](https://user-images.githubusercontent.com/19198037/53139372-7140a680-3557-11e9-815a-8b33fb2b1829.PNG)
+![advanced parameters](https://user-images.githubusercontent.com/19198037/53139376-74d42d80-3557-11e9-834d-534377a0c4a0.PNG)
+![miscplots1](https://user-images.githubusercontent.com/19198037/53139379-769df100-3557-11e9-8583-56cbcdc206e1.PNG)
+![miscplots2](https://user-images.githubusercontent.com/19198037/53139381-7867b480-3557-11e9-9e91-5f539a958b58.PNG)
+
+
+
 HOW TO INSTALL:
 
 1. Install via mlapp file
